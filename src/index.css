@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --color-dark-bg: oklch(26 32 44 1); /* Example dark mode background */
+  --color-dark-text: #e2e8f0; /* Example dark mode text */
+  --color-light-bg: #ffffff; /* Light mode background */
+  --color-light-text: #1a202c; /* Light mode text */
+  --color-mint-500: oklch(0.72 0.11 178);
+}
